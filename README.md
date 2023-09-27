@@ -18,7 +18,7 @@
  <a id="disclaimer"></a>
 ## Disclaimer
 
-This is a school project and is not meant for any practical application. Use on your own risk.
+This is a school project and is not meant for any practical application. Use at your own risk.
 
  <a id="description"></a>
 ## Description:
